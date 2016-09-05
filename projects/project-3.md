@@ -11,7 +11,7 @@ summary: An Eagle Project I did to help improve Noelani School
 
 <img class="ui image" src="{{ site.baseurl }}/images/SquareEagleProject.png">
 <img class="ui image" src="{{ site.baseurl }}/images/EPProcess.JPG">
-<img class="ui image" src="{{ site.baseurl }}/images/EPSketch.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/EPSketch.jpg">
 
 In 2012 when I was in Boyscouts, I did my Eagle Project to become an Eagle Scout.  I noticed that there was a ditch infront of the school gym that could be potentially dangerous if cars didn't see it when they were parking during school events.  So I installed bright yellow reflective poles at the top of the ditch to prevent any future accidents.
 
