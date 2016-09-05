@@ -8,7 +8,7 @@ date: 2016
 labels:
   - SQL
   - Wordpress
-summary: A fake sales database of a travel agency using SQL and Wordpress
+summary: A sales database of a fictitious travel agency using SQL and Wordpress
 ---
 
 <img class="ui medium right floated rounded image" src="../images/SQLTop.png">
