@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title:Coding Standards
+title: Coding Standards
 date: 2016-09-22
 labels:
   - Essay
   - Intellij
-  - Jsfiddle
 ---
 
 Coding standards is an important yet controversial part of any computer scientist’s daily life.  Everyone has their own preference that affects how comprehensible each code is.  Enforcing a coding standard is great for breaking bad habits if they happen to develop but at the risk of frustrating the coder and possibly making even simple tasks take longer.
