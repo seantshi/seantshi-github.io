@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title:Coding Standards
-date: 2016-09-2
+date: 2016-09-22
 labels:
   - Essay
   - Intellij
