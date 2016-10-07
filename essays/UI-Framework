@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+title: UI Framework
+date: 2016-10-06
+labels:
+  - Essay
+  - Sematic Ui
+  - Html
+---
+
+Html is used to build many different types of webpages in a quick and simple way.  Formating html webpages are made easier with css stylesheets and Sematic UI makes styling even easier.  With css, different parts of the page can be set to a certain style by changing it's class, and with Sematic UI different classes and styles are made avaliable from the start allowing web design and formatting to be quicker and easier to get to.
+
+The amount of customization in Sematic Ui's library means that webpages can be set to be whatever style the designer needs while remaining simple and easy to understand for anyone to get it in a matter of minutes.  Making a grid is as simple as adding the class "ui grid" to a div.  Customizing that grid is as easy as saying "ui three column grid container" if you want the grid to contain 3 columns.
+
+In addition to helping with simple formating and classes with Sematic Ui, many different icons are made avaliable to help jumpstart any webpage with the nessessary icons like email, facebook and various social media links.  All can be added simply by using <i></i> and setting it's class to "search icon" or whatever icon you need.  Many of them are easy to get like mail icon so really easy to set up a page with lots of links really quick with Sematic Ui.
