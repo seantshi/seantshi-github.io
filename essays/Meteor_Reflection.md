@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Meteor
-date: 2016-06-20
+date: 2016-10-20
 labels:
   - Essay
   - Meteor
