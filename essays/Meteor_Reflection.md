@@ -8,8 +8,10 @@ labels:
   - Meteor
 ---
 
-Like anything else new, using Meteor for the first time took some getting used to.  There is an adjustment period where everything is both new and confusing.  Without earlier experience with something similar its very hard to get anything done effectively or quickly.
+<h2>Starting Meteor</h2>
 
-Just loading up the example app for meteor took a lot of guesswork and reasearch, and the long load times for initial boots are still something that I'm getting used to, but the easy creation of apps makes the wait seem worth it.  After inital booting, testing html files that implement javascript code is as easy as waiting for meteor to sync everything again.  Theres no need to compile each file after every edit or link all the files up, Meteor does that already making app design quick and easy aside from the initial wait time.
+Like anything else new, using Meteor for the first time took some getting used to.  There is an adjustment period where everything is both new and confusing.  Without earlier experience with something similar it's very hard to get anything done effectively or quickly.  There was a steep learning curve to first get anything done, but after a few weeks of using meteor rigorously, I feel like I've gotten the hang of it.
 
-In any case, halfway through learing the basics of meteor, my laptop crashed and I had to get a new one.  It helped me realize that everything we learn builds upon each other since I had to redownload all the past programs we worked with in order to get meteor to work.  Meteor uses a combination of both html and javascript, so I will have to have a solid understanding of the past in order to progress in the future.
+<h2>Thoughts</h2>
+
+I haven't thought of it much while I was using Meteor, but it really does make things faster.  Everything to make an application work is all in one place.  No need to work on the front-end design on one program and leave back-end on another, everything is all in one place if you know what to do with it.  Meteor itself has a lot of helpful guides and libraries to help any problem and even though I havn't had first hand experience creating an application from scratch, I can tell Meteor helps a lot if you're willing to put in the time and learn it.
