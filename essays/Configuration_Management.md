@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management
+title: Github
 date: 2016-09-01
 labels:
   - Essay
   - GitHub
 ---
 
-Configuration Management is a key part in cooperation and team management in computer science. Major projects are going to require many people working together and having everyone be on the same page with the same code is important for that.
+<h2>Github</h2>
 
-GitHub is useful for that since files can be easily shared and edited by many people all at once. Something similar to this that I have used in the past is Google Docs, but for massive files load time and lag made it slower than just working offline. With Github and git there is the lag-less speed when editing while maintaining the cooperation aspect that is required for group projects.
+Throughout my academic career, I have used Github quite frequently to share and collaborate on projects.  File sharing with multiple people is a very necessary thing, and Github has been very useful for that.  When I first started, it took me awhile to get used to the things Github requires before you can share or receive files, but after learning about it more and experiencing why those things are in place, I have become more grateful for Github.
 
-The need for file sharing in groups created the need for something like git for everyone to coordinate on one thing at the same time.  In my opinion Github is popular because of how simple and accessible it is while being a really effective. Git might be the thing running Github, but I believe that if Github was harder to learn and less accessible then it would be much less popular.
+Before I wondered why I wouldn't be able to get updated files from my group members without saving my changes first, but that was for the best since reverting unwanted changes that broke the program was quite frequent and helpful.  Seeing all the changes on a timeline and picking which version to sync to is vital for file sharing, and github's version is simple and user friendly compared to other file sharing methods.
