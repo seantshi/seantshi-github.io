@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home.png
+image: images/homesquare.png
 title: Cram, a Collaborative Study App
 permalink: projects/Cram
 date: 2016
