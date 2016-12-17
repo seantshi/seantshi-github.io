@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Javascript 1 Reflection
+title: WOD reflection
 date: 2016-09-01
 labels:
   - Essay
   - Learning
 ---
+<h2>WOD</h2>
 
+During my ICS314 class, we were assigned WODs or Work Out of the Day, which is a timed programing assignment that tested our understanding and knowledge of the material.  The way WODs had everyone start at the same time in class, but we were to leave when we finished.  Our grade was judged upon how long we took, and if it turned out correct.  It put us under timed pressure to do things quickly but correctly and since everyone who finished had to wait outside, we could see when others were faster or slower than the rest of us.
 
-Today marked the end of my first week learning Javascript in ics 314.  Learning c, c++ and java previously really helped speed up the learning process, but learning how each coding language is different is something I am still in the process of learning.  Freecodecamp really helped as well since it provided a way to practice the language without the need to download an integrated development environment.  However the thing that helped me the most in learning was some of the practice our teacher assigned to us.
+<h2>Thoughts</h2>
 
-Wods or "Workout of the Day" is primarily the bulk of the assignment and it requires us to complete a certain task from scratch within a limited time period.  It is most helpful to me since the wods are short little tasks that take around 10 or so minutes and it seems to mostly test concepts and technical ability rather than intense problem solving and bug-testing that normally comes with huge time consuming projects.  Either I complete the wod or I don't and in either case it allows me to learn or review simple concepts that will speed up my time spent coding in the future.  I feel like these wods are good for reviewing or relearning new concepts and making sure I can apply them in an adequate amount of time.  I hope these wods will help me learn Javascript and other new languages in the future.
+The thing I liked most about the WODs wasn't the timed grading, or the competitiveness of seeing who was fasted, but the satisfaction I had walking out of the room after I was done. It was horrible being one of the last people who finished or even running out of time, and that fear to not be the last person, motivated me to fully grasp what I was learning to avoid that fate.  Other grading methods like tests, or quiz didn't really have that feel, since you couldn't really see when everyone else finished and WODs brought a competitive social feel to the classroom, even though all the work was by yourself.
