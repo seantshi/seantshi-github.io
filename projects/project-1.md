@@ -2,15 +2,20 @@
 layout: project
 type: project
 image: images/SquareCheckin.png
-title: Hawaii Electids App
-permalink: projects/Checkin
+title: Cram, a Collaborative Study App
+permalink: projects/Cram
 date: 2016
 labels:
-  - Appery
-summary: A Geolocation App that returns a voting information to the user based off of location
+  - Meteor
+  - Group Project
+  - Github
+  - Html
+summary: An App made for ICS students to create study sessions and cram.
 ---
-<img class="ui medium right floated rounded image" src="../images/CheckExample.png">
 
-Made using Appery in ics321, this app takes the geocoordinates of the user, returns the address then when returns voting information of the user including Mayor, Congressman State Senator and State House Representator.
 
-Appery is a mobile app developement envirement that allows its users to create and devolpe apps in a simple and easy to learn way.  Even though my subscription with Appery has ended, developing this simple geolocation app has allowed me to better understand the though process that goes behind recieving, gathering and processing data even in simple geolocation apps such as this.
+Cram is an app designed to encourage ICS students to create study sessions and cram together.  We worked in a group of four using Meteor to launch the app and Github to collaborate between us.  Html was used for the front-end of the app, and Mongodb was used for the back-end.
+
+Through out the development of this application, we used Github's issues tab to work out what else needs to be done along with milestones to keep us on track.  There is a lot more we could have done with this application, but it was a good experience.
+
+<p class="view"><a href="https://cram-colleague.github.io/">Cram Homepage</a></p>
